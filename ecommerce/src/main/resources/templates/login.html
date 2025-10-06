@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+          <meta charset="UTF-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+          <link rel="stylesheet" href="css/style.css">
+          <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,200..900;1,200..900&family=Funnel+Display:wght@300..800&family=Outfit:wght@100..900&family=Overlock:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap" rel="stylesheet">
+
+          <title>loginPage</title>
+</head>
+<body>
+          <div id="login">
+              <h1>Login here!</h1>
+              <form onsubmit="event.preventDefault();loginUser();">
+                    <input name="email" type="text" placeholder="Enter the email" id="email">
+                    <br>
+                    <input name="password" type="password" placeholder="Enter the password" id="password">
+                    <br>
+                    <button type="submit" id="btn">Verify</button>
+                    <h4>New User! <a href="/register">Register here!</a></h4>
+              </form>
+              <p id="message" style="color:green;"></p>
+          </div>
+</body>
+			<script src="/js/script.js"></script>
+</html>
