@@ -8,5 +8,4 @@ Cart Functionality: Users can add items to their cart and view selected products
 Technologies Used:
 Frontend: HTML, CSS, JavaScript
 Backend: Spring Boot, Hibernate
-
 This project helped me understand the integration of frontend and backend, user authentication, and basic e-commerce functionalities.
