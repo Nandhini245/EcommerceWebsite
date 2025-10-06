@@ -57,5 +57,7 @@ This is a basic e-commerce website created to practice full-stack web developmen
 ---
 
 ## ScreenShots
-![CartPage Screenshot](https://github.com/Nandhini245/EcommerceWebsite/blob/main/image.png?raw=true)
+![HomePage Screenshot](https://github.com/Nandhini245/EcommerceWebsite/blob/main/HomePage.png?raw=true)
+![CartPage Screenshot](https://github.com/Nandhini245/EcommerceWebsite/blob/main/cartPage.png?raw=true)
+
 
