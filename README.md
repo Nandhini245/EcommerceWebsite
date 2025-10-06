@@ -27,7 +27,7 @@ This is a basic e-commerce website created to practice full-stack web developmen
 
 * **Frontend:** HTML, CSS, JavaScript
 * **Backend:** Spring Boot, Hibernate
-* **Database:** Any relational database (configured via Hibernate)
+* **Database:** MySQL (configured via Hibernate)
 
 ## Setup Instructions
 
