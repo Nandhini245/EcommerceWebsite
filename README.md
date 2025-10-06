@@ -55,3 +55,7 @@ This is a basic e-commerce website created to practice full-stack web developmen
 * Understood basic e-commerce workflows like user login, product listing, and cart management.
 
 ---
+
+## ScreenShots
+![CartPage Screenshot](https://github.com/Nandhini245/EcommerceWebsitee/blob/main/image.png?raw=true)
+
